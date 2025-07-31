@@ -58,3 +58,8 @@ nav {
     justify-content:center;
 }
 ```
+## Check list
+- [x] home page
+- [x] about page
+- [ ] contact page
+- [ ] service page
