@@ -74,3 +74,5 @@ CSS framework [Tailwindcss](https://tailwindcss.com/)
 ## Badge
 
 [![Button](https://img.shields.io/badge/Visit-Website-blue)](https://tailwindcss.com/)
+
+[![app](https://img.shields.io/badge/PNC_School-Application-orange)](https://example.com)
