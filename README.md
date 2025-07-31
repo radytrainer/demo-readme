@@ -70,3 +70,7 @@ CSS framework [Tailwindcss](https://tailwindcss.com/)
 
 ## Image dashboard
 ![Dashboard](dashboard.png)
+
+## Badge
+
+[![website]](https://tailwindcss.com/)](Test)
