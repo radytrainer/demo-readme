@@ -73,4 +73,4 @@ CSS framework [Tailwindcss](https://tailwindcss.com/)
 
 ## Badge
 
-[![website]](https://tailwindcss.com/)](Test)
+[![Button](https://img.shields.io/badge/Visit-Website-blue)](https://tailwindcss.com/)
