@@ -38,3 +38,23 @@ Project description here
 > pip install
 
 
+## Code online
+`print("hello world")`
+
+`npm install express`
+
+## Code multiple line
+```html
+<h1> hello world </h1>
+<p> this is para </p>
+```
+```python
+for i in range(10):
+    print(i)
+```
+```css
+nav {
+    display: flex;
+    justify-content:center;
+}
+```
