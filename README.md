@@ -76,3 +76,17 @@ CSS framework [Tailwindcss](https://tailwindcss.com/)
 [![Button](https://img.shields.io/badge/Visit-Website-blue)](https://tailwindcss.com/)
 
 [![app](https://img.shields.io/badge/PNC_School-Application-orange)](https://example.com)
+
+## Exercise 1
+***Reverse text***
+**Example** Hello -> olleH
+### Code
+```python
+text = "Hello Baby"
+result = ""
+for i in range(1, len(text) + 1):
+   result += text[-i]
+print(result)
+```
+Output
+`ybaB olleH`
